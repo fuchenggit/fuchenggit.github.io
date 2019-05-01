@@ -1,0 +1,3 @@
+<php?>
+write:file
+</php?>
